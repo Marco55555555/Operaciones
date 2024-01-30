@@ -71,6 +71,8 @@ if __name__ == '__main__':
     print(conversctopcplx((3*((3)**(1/2))),(3)))
     print(fasecplx((3),(-5.2)))
 import unittest
+
+# Pruebas de las funciones
 class TestCibreriaComplejos(unittest.TestCase):
 
     # Casos prueba de la suma
